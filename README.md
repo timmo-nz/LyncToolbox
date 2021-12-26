@@ -3,10 +3,10 @@ This script is the culmination of scripts from github with customisations of my 
 
 ## NOTES
 - One command to run
-- Full GUI implementation
+- GUI implementation
 - Winget install
 - Install popular programs with one click
-REMOVED- O&O Shutup 10 CFG and Run
+- REMOVED- O&O Shutup 10 CFG and Run
 - Dark/Light mode
 - Semi-configurable
 
